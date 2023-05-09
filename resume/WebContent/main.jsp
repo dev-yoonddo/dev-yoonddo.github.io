@@ -79,12 +79,12 @@ hr{
 			<div class="detail">
 				<div>
 					<div class="name">
-						<h1>ABOUT ME</h1>
+						<h1></h1>
 						<hr>
 					</div>
 					<div class="text" style="display: flex;">
 						<img alt="" src="image/idphoto.jpg" style=" width: 150px; border-radius: 100px;">
-						<h3>안녕하세요 상상을 즐기며 실현하기위해 노력하는 프론트엔드 개발자를 꿈꾸는 정윤서입니다.</h3>
+						<h3>아직은 개발자에서 '개'를 맡고있는 </h3>
 					</div>
 				</div>
 			</div>
@@ -118,6 +118,18 @@ hr{
 						<hr>
 					<div class="text2" style="float: right;">
 						<h3>00000</h3>
+					</div>
+				</div>
+			</div>
+			<div class="detail">
+				<div>
+					<div class="name">
+						<h1>ABOUT ME</h1>
+						<hr>
+					</div>
+					<div class="text" style="display: flex;">
+						<img alt="" src="image/idphoto.jpg" style=" width: 150px; border-radius: 100px;">
+						<h3>안녕하세요 상상을 즐기며 실현하는 개발자를 꿈꾸는 정윤서입니다.</h3>
 					</div>
 				</div>
 			</div>
